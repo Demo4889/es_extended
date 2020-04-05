@@ -42,7 +42,7 @@ Locales['en'] = {
 
   -- Salary related
   ['received_salary'] = 'you received your salary: ~g~$%s~s~',
-  ['received_help'] = 'you recieved your welfare check: ~g~$%s~s~',
+  ['received_help'] = 'you recieved your unemployment check: ~g~$%s~s~',
   ['company_nomoney'] = 'the company you\'re employeed at is too poor to pay out your salary',
   ['received_paycheck'] = 'received paycheck',
   ['bank'] = 'maze Bank',
